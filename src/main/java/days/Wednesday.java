@@ -1,4 +1,4 @@
-package Days;
+package days;
 
 public class Wednesday {
     public static void main(String[] args) {

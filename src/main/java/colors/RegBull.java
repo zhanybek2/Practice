@@ -1,4 +1,4 @@
-package Colors;
+package colors;
 
 public class RegBull {
     public static void main(String[] args) {

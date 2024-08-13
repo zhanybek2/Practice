@@ -1,4 +1,4 @@
-package Sports;
+package sports;
 
 public class UFC {
     public static void main(String[] args) {
