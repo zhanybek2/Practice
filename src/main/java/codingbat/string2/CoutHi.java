@@ -1,4 +1,4 @@
-package Codingbat.String2;
+package codingbat.string2;
 
 public class CoutHi {
     public int countHi(String str) {
